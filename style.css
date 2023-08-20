@@ -1,0 +1,32 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.contaner{
+	margin: 3px;
+	padding: 3px;
+	display: flex;
+	background-color: tomato;
+	text-decoration: none;
+}
+.nav{
+
+ display: flex;
+ margin-left: 658px;
+ font-family: sans-serif;
+ padding: 2px;
+ letter-spacing: 4px;
+
+
+}
+a {
+	margin: 13px;
+	text-decoration: none;
+	overflow: hidden;
+	color: black;
+}
+.Icon{
+	margin: 2px;
+	padding: 2px;
+	text-shadow: 1px;
+}
